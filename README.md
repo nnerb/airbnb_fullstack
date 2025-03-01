@@ -36,8 +36,8 @@ Make sure you have the following installed:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/airbnb-clone.git
-cd airbnb-clone
+git clone https://github.com/nnerb/airbnb_fullstack.git
+cd airbnb_fullstack
 ```
 
 ### Install Dependencies
